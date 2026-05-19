@@ -1,0 +1,13 @@
+[package]
+name = "qa_gatekeeper_backend"
+version = "0.1.0"
+edition = "2021"
+description = "Rust release-gate engine for QA Gatekeeper"
+license = "MIT"
+
+[lib]
+path = "src/lib.rs"
+
+[[bin]]
+name = "qa-gatekeeper-backend"
+path = "src/main.rs"
