@@ -12,7 +12,7 @@
 
 **Student Agency Operations** · **No backend. No login. Client data stays local.**
 
-[Live app](https://volta-npo.github.io/qa-gatekeeper/) · [Report an issue](https://github.com/volta-npo/qa-gatekeeper/issues) · [Volta](https://voltanpo.org)
+[Live app](https://volta-npo.github.io/44-qa-gatekeeper/) · [Report an issue](https://github.com/volta-npo/44-qa-gatekeeper/issues) · [Volta](https://voltanpo.org)
 
 </div>
 
@@ -193,7 +193,7 @@ This repo is designed to be usable as a real OSS product, not just a static demo
 ## 🛠️ Quick start
 
 ```bash
-git clone https://github.com/volta-npo/qa-gatekeeper.git
+git clone https://github.com/volta-npo/44-qa-gatekeeper.git
 cd 44-qa-gatekeeper
 npm install
 npm test
