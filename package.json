@@ -31,11 +31,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/volta-npo/qa-gatekeeper.git"
+    "url": "git+https://github.com/volta-npo/44-qa-gatekeeper.git"
   },
-  "homepage": "https://volta-npo.github.io/qa-gatekeeper/",
+  "homepage": "https://volta-npo.github.io/44-qa-gatekeeper/",
   "bugs": {
-    "url": "https://github.com/volta-npo/qa-gatekeeper/issues"
+    "url": "https://github.com/volta-npo/44-qa-gatekeeper/issues"
   },
   "author": "Volta Open Source <volta.npo@gmail.com>",
   "engines": {
